@@ -1,6 +1,7 @@
 # Responsive-Website
 
 A simple static responsive website written in HTML5 and CSS3.
+More screenshots are available in the ScreenShot folder.
 
 Desktop home page:
 
