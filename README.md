@@ -9,4 +9,5 @@ Desktop home page:
 
 Mobile home page:
 
-![Alt text](/ScreenShots/mobile-1.png?raw=true "Mobile-1")
+<img src="ScreenShots/mobile-1.png" width="465" height="1280">
+
